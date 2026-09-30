@@ -1,7 +1,5 @@
-# Bright-Coffee-Case-Study
-# Bright-Coffee-Shop-Case-Study
 
-# Coffee Shop Sales Analysis
+# Bright-Coffee-Shop-Case-Study
 
 ## Project Overview
 
